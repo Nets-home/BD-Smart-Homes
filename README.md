@@ -30,5 +30,5 @@ User Profiles Note:
  	User profiles must be created manually.
 	The master profile is named:
 		Username: backoffice
-		Password: LivoraAdmin
+		Password: *****
 
